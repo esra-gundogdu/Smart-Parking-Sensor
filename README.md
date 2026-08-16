@@ -28,13 +28,13 @@ warning becomes more noticeable,helping the user detect how close the obstacle i
 -Built with Arduino UNO
 
 ## 📷 Project 
+The picture of project is available in this repository.
 
 ## 🎥 Demonstration
 A demonstration video of the project is included in this repository.
 
 ## 💻 Code
-The Arduino source code is available in:
-
+The Arduino source code is available in this repository.
 
 ## What I Learned
 Through this project I practiced;
