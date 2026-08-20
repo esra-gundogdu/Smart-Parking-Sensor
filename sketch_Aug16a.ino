@@ -1,6 +1,6 @@
-#define echoPin 6
+#define echoPin 8
 #define trigPin 7
-#define buzzerPin 8
+#define buzzerPin 6
 
 int maximumRange = 40;
 int minimumRange =0;
