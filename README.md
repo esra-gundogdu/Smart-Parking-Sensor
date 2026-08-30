@@ -55,3 +55,10 @@ Possible improvements for future versions include:
 ## BUilt With
  Arduino UNO + HC-SR04 + Buzzer
 
+ ## Update PCB 
+
+As a continuation of this project, I designed a custom PCB for the Smart Parking Sensor.
+
+
+
+
